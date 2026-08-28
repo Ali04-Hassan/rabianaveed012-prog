@@ -7,13 +7,6 @@
 
 ---
 
-<!-- 2. YOUR PROFILE PICTURE HERE -->
-<p align="center">
- <img src="https://github.com/rabianaveed012-prog.png" width="160px" style="border-radius: 50%;" alt="Rabia N. Profile Picture" />
-</p>
-
----
-
 # Hi, I'm Rabia Naveeed. 👋
 
 **UI/UX Designer | Figma Expert | SaaS, Mobile App & Website Design**
