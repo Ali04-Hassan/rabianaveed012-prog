@@ -1,16 +1,167 @@
-## Hi there 👋
+<!-- 1. Top Typing SVG Animation Line -->
+<h2 align="center">
+ <a href="https://git.io/typing-svg">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vcenter=true&width=950&lines=UI%2FUX+Designer;Figma+Expert;SaaS%2C+Mobile+App+%26+Website+Design;Visual+Design+%26+Wireframing" alt="Rabia N. Typing Animation" />
+ </a>
+</h2>
 
-<!--
-**rabianaveed012-prog/rabianaveed012-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<!-- 2. YOUR PROFILE PICTURE HERE -->
+<p align="center">
+ <img src="https://github.com/rabianaveed012-prog.png" width="160px" style="border-radius: 50%;" alt="Rabia N. Profile Picture" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# Hi, I'm Rabia Naveeed. 👋
+
+**UI/UX Designer | Figma Expert | SaaS, Mobile App & Website Design**
+
+Great design isn't just about looking good—it's about making products feel effortless to use. I'm Rabia, a UI/UX Designer focused on creating clean, intuitive, and user-friendly digital experiences for mobile apps, websites, dashboards, and SaaS products. I care about making designs that are not only visually polished, but also practical, easy to use, and aligned with real user needs.
+
+🎓 **Education:** Bachelor of Computer Science (BCompSc) - Software Engineering | Visual Design @ Virtual University of Pakistan 
+💼 **Current Role:** UI/UX Designer @ Let Technologies (May 2023 - Present) 
+🌟 **Freelancing:** $8.00/hr | Rising Talent on [Upwork](https://www.upwork.com/freelancers/~012d4726a0419ab017) & [Behance](https://www.behance.net/rabianaveed2)
+
+---
+
+### 🌐 Connect With Me
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rabianaveed012/)
+[<img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />](https://www.behance.net/rabianaveed2)
+[<img src="https://img.shields.io/badge/Upwork-600014?style=for-the-badge&logo=upwork&logoColor=white" />](https://www.upwork.com/freelancers/~012d4726a0419ab017)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:rabianaveed012@gmail.com)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+ <img src="https://github-readme-stats-gamma-eight-68.vercel.app/api?username=rabianaveed012-prog&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=0" height="165" />
+ <img src="https://github-readme-stats-gamma-eight-68.vercel.app/api/top-langs/?username=rabianaveed012-prog&layout=compact&theme=radical&cache_seconds=0" height="165" />
+</p>
+
+<p align="left">
+ <img src="https://github-readme-streak-stats-eight.vercel.app/?user=rabianaveed012-prog&theme=radical" />
+</p>
+
+---
+
+<!-- Side-by-Side Section -->
+<table>
+ <tr>
+ <td width="60%" valign="top">
+ <h3>📚 Core Expertise</h3>
+ <ul>
+ <li>User Interface & User Experience (UX/UI) Design</li>
+ <li>Wireframing, Prototyping & Design Systems</li>
+ <li>Responsive Web & SaaS Dashboard Design</li>
+ <li>Mobile App Design (iOS & Android)</li>
+ </ul>
+ <br />
+ <h3>🤝 Open to Collaborate On</h3>
+ <ul>
+ <li>📱 Mobile App UX/UI Projects & Wireframes</li>
+ <li>💻 SaaS Platforms, Dashboards & Landing Pages</li>
+ <li>🎨 Graphic Design, Logos & Social Media Posts</li>
+ <li>🔍 User-Centered Design Audits & Iterations</li>
+ </ul>
+ </td>
+ <td width="40%" align="center" valign="middle">
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2dtbXI5OGp4bHdsNTJrY2QxZWg2NWpoaWEzNnBjbnlrb2twYnl4NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h408T6Y5GfmXBKW62l/giphy.gif" width="100%" alt="Design GIF" />
+ </td>
+ </tr>
+</table>
+---
+
+### 🛠️ Complete Skillset & Toolkit
+
+#### 🎨 Design & Prototyping
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/User_Interface_Design-000000?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/UI/UX_Prototyping-00599C?style=for-the-badge&logo=blueprint&logoColor=white" /> <img src="https://img.shields.io/badge/Wireframing-25D366?style=for-the-badge&logo=design&logoColor=white" /> <img src="https://img.shields.io/badge/User_Centered_Design-FF6584?style=for-the-badge&logo=sparkles&logoColor=white" />
+
+#### 💻 Solutions & Assets
+<img src="https://img.shields.io/badge/Landing_Page-FF6584?style=for-the-badge&logo=sparkles&logoColor=white" /> <img src="https://img.shields.io/badge/Web_Design-38B2AC?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/App_Design-000000?style=for-the-badge&logo=apple&logoColor=white" /> <img src="https://img.shields.io/badge/Responsive_Design-6C5CE7?style=for-the-badge&logo=v&logoColor=white" /> <img src="https://img.shields.io/badge/SaaS-412991?style=for-the-badge&logo=v&logoColor=white" /> <img src="https://img.shields.io/badge/Graphic_Design-E34F26?style=for-the-badge&logo=adobe&logoColor=white" /> <img src="https://img.shields.io/badge/Logo_Design-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
+
+---
+
+<h3 align="center">🚀 Featured Repositories & Projects</h3>
+
+<table>
+ <tr>
+ <td width="65%" valign="middle">
+ <h4>🎨 <a href="https://github.com/rabianaveed012-prog/rabianaveed012-prog">rabianaveed012-prog</a></h4>
+ <p>UI/UX Designer main profile repository featuring personal portfolio, case studies, and design methodology overview.</p>
+ <p>
+ <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+ <img src="https://img.shields.io/badge/UI/UX_Portfolio-000000?style=flat-square&logo=sparkles&logoColor=white" />
+ </p>
+ </td>
+ <td width="35%" align="center" valign="middle">
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2dtbXI5OGp4bHdsNTJrY2QxZWg2NWpoaWEzNnBjbnlrb2twYnl4NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h408T6Y5GfmXBKW62l/giphy.gif" width="100%" alt="Design Workspace" />
+ </td>
+ </tr>
+
+ <tr>
+ <td width="65%" valign="middle">
+ <h4>📱 <a href="https://github.com/rabianaveed012-prog/App-design">App-design</a></h4>
+ <p>Mobile application UI/UX designs including mobile wireframes, user flows, interactive prototypes, and iOS/Android interface screens.</p>
+ <p>
+ <img src="https://img.shields.io/badge/App_Design-000000?style=flat-square&logo=apple&logoColor=white" />
+ <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+ <img src="https://img.shields.io/badge/Mobile_UX-FF6584?style=flat-square&logo=sparkles&logoColor=white" />
+ </p>
+ </td>
+ <td width="35%" align="center" valign="middle">
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFtNHhmcHE0M3V4ejVwenoyd3I2MzZxOGltZHIyazM0MTFpaHNzcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EeZ6mLsRRik8cgnh3D/giphy.gif" width="100%" alt="App Interface" />
+ </td>
+ </tr>
+
+ <tr>
+ <td width="65%" valign="middle">
+ <h4>💻 <a href="https://github.com/rabianaveed012-prog/Website-Design">Website-Design</a></h4>
+ <p>Responsive website UI/UX projects, landing pages, SaaS web platforms, and custom desktop/tablet/mobile layouts designed in Figma.</p>
+ <p>
+ <img src="https://img.shields.io/badge/Web_Design-38B2AC?style=flat-square&logo=html5&logoColor=white" />
+ <img src="https://img.shields.io/badge/Responsive-6C5CE7?style=flat-square&logo=v&logoColor=white" />
+ <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+ </p>
+ </td>
+ <td width="35%" align="center" valign="middle">
+ <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dXZnajh0Nmx2bXBpaXZ1eXA3a2U4dWl1Y3Y4MjEzd3E5d2dqOGZ2eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/O7x8QN7gMcsAxX8v2z/giphy.gif" width="100%" alt="Web Interface" />
+ </td>
+ </tr>
+</table>
+
+---
+
+### 📜 Verified Certifications & Credentials
+
+* **Start the UX Design Process: Empathize, Define, and Ideate**
+ * **Provider:** Coursera
+ * **Issued:** April 2026
+
+* **Foundations of User Experience (UX) Design**
+ * **Provider:** Coursera
+ * **Issued:** April 2026
+ * **Certification ID:** `43PXCGRFS99X`
+
+* **Google UX UI Designing**
+ * **Provider:** Coursera
+ * **Issued:** March 2026
+
+* **Graphics Design**
+ * **Provider:** DigiSkills.pk
+ * **Issued:** July 2024
+ * **Certification ID:** `WBPMJF8MK`
+
+* **Upwork Rising Talent Badge**
+ * Top-performing freelancer recognition in UI/UX & Digital Product Design.
+
+---
+
+<!-- Contribution Activity Graph -->
+<h3 align="center">🐍 Contribution Activity Graph</h3>
+
+<p align="center">
+ <img src="https://raw.githubusercontent.com/rabianaveed012-prog/rabianaveed012-prog/main/github-user-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
