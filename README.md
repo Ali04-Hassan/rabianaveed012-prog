@@ -22,7 +22,7 @@ Great design isn't just about looking good—it's about making products feel eff
 
 🎓 **Education:** Bachelor of Computer Science (BCompSc) - Software Engineering | Visual Design @ Virtual University of Pakistan 
 💼 **Current Role:** UI/UX Designer @ Let Technologies (May 2023 - Present) 
-🌟 **Freelancing:** $8.00/hr | Rising Talent on [Upwork](https://www.upwork.com/freelancers/~012d4726a0419ab017) & [Behance](https://www.behance.net/rabianaveed2)
+🌟 **Freelancing:**  Rising Talent on [Upwork](https://www.upwork.com/freelancers/~012d4726a0419ab017) & [Behance](https://www.behance.net/rabianaveed2)
 
 ---
 
@@ -66,9 +66,6 @@ Great design isn't just about looking good—it's about making products feel eff
  <li>🎨 Graphic Design, Logos & Social Media Posts</li>
  <li>🔍 User-Centered Design Audits & Iterations</li>
  </ul>
- </td>
- <td width="40%" align="center" valign="middle">
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2dtbXI5OGp4bHdsNTJrY2QxZWg2NWpoaWEzNnBjbnlrb2twYnl4NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h408T6Y5GfmXBKW62l/giphy.gif" width="100%" alt="Design GIF" />
  </td>
  </tr>
 </table>
