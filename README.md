@@ -4,14 +4,6 @@
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vcenter=true&width=950&lines=UI%2FUX+Designer;Figma+Expert;SaaS%2C+Mobile+App+%26+Website+Design;Visual+Design+%26+Wireframing" alt="Rabia N. Typing Animation" />
  </a>
 </h2>
-
----
-
-<!-- 2. YOUR PROFILE PICTURE HERE -->
-<p align="center">
- <img src="https://github.com/rabianaveed012-prog.png" width="160px" style="border-radius: 50%;" alt="Rabia N. Profile Picture" />
-</p>
-
 ---
 
 # Hi, I'm Rabia Naveeed. 👋
