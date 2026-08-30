@@ -125,23 +125,35 @@ Great design isn't just about looking good—it's about making products feel eff
 
 ### 📜 Verified Certifications & Credentials
 
-* **Start the UX Design Process: Empathize, Define, and Ideate**
- * **Provider:** Coursera
- * **Issued:** April 2026
-
 * **Foundations of User Experience (UX) Design**
- * **Provider:** Coursera
- * **Issued:** April 2026
- * **Certification ID:** `43PXCGRFS99X`
+  * **Issued by:** Google via Coursera
+  * **Focus:** User-Centered Design, Accessibility, Equity-Focused Design, Design Sprints
+  * **Verification ID:** `43PXCGRFS99X`
+  * 🔗 [Verify Credential](https://www.coursera.org/account/accomplishments/verify/43PXCGRFS99X)
 
-* **Google UX UI Designing**
- * **Provider:** Coursera
- * **Issued:** March 2026
+* **Start the UX Design Process**
+  * **Issued by:** Google via Coursera
+  * **Focus:** Empathizing with Users, Defining Problem Statements, Ideation & Wireframing
+  * **Verification ID:** `W8RTOV69LULO`
+  * 🔗 [Verify Credential](https://www.coursera.org/account/accomplishments/verify/W8RTOV69LULO)
 
-* **Graphics Design**
- * **Provider:** DigiSkills.pk
- * **Issued:** July 2024
- * **Certification ID:** `WBPMJF8MK`
+* **Adobe Certified Associate in Graphic Design & Illustration Using Adobe Illustrator**
+  * **Issued by:** DigiSkills.pk
+  * **Focus:** Vector Graphics, Digital Illustration, Visual Communication & Design Fundamentals
+  * **Verification ID:** `WBPMJF8MK`
+  * 🔗 [Verify Credential](https://lms.digiskills.pk/MyResults/MyResults.aspx)
+
+* **Freelancing**
+  * **Issued by:** DigiSkills.pk
+  * **Focus:** Freelance Profile Building, Client Communication, Proposal Writing & Project Management
+  * **Verification ID:** `96RJEXYMK`
+  * 🔗 [Verify Credential](https://lms.digiskills.pk/MyResults/MyResults.aspx)
+
+* **Communications & Soft Skills**
+  * **Issued by:** DigiSkills.pk
+  * **Focus:** Professional Communication, Active Listening, Teamwork & Workplace Collaboration
+  * **Verification ID:** `Z2TGEYCMK`
+  * 🔗 [Verify Credential](https://lms.digiskills.pk/MyResults/MyResults.aspx)
 
 * **Upwork Rising Talent Badge**
  * Top-performing freelancer recognition in UI/UX & Digital Product Design.
