@@ -84,11 +84,6 @@ Great design isn't just about looking good—it's about making products feel eff
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
  <img src="https://img.shields.io/badge/UI/UX_Portfolio-000000?style=flat-square&logo=sparkles&logoColor=white" />
  </p>
- </td>
- <td width="35%" align="center" valign="middle">
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2dtbXI5OGp4bHdsNTJrY2QxZWg2NWpoaWEzNnBjbnlrb2twYnl4NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h408T6Y5GfmXBKW62l/giphy.gif" width="100%" alt="Design Workspace" />
- </td>
- </tr>
 
  <tr>
  <td width="65%" valign="middle">
@@ -99,11 +94,6 @@ Great design isn't just about looking good—it's about making products feel eff
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
  <img src="https://img.shields.io/badge/Mobile_UX-FF6584?style=flat-square&logo=sparkles&logoColor=white" />
  </p>
- </td>
- <td width="35%" align="center" valign="middle">
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFtNHhmcHE0M3V4ejVwenoyd3I2MzZxOGltZHIyazM0MTFpaHNzcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EeZ6mLsRRik8cgnh3D/giphy.gif" width="100%" alt="App Interface" />
- </td>
- </tr>
 
  <tr>
  <td width="65%" valign="middle">
@@ -114,10 +104,7 @@ Great design isn't just about looking good—it's about making products feel eff
  <img src="https://img.shields.io/badge/Responsive-6C5CE7?style=flat-square&logo=v&logoColor=white" />
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
  </p>
- </td>
- <td width="35%" align="center" valign="middle">
- <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dXZnajh0Nmx2bXBpaXZ1eXA3a2U4dWl1Y3Y4MjEzd3E5d2dqOGZ2eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/O7x8QN7gMcsAxX8v2z/giphy.gif" width="100%" alt="Web Interface" />
- </td>
+
  </tr>
 </table>
 
@@ -159,10 +146,9 @@ Great design isn't just about looking good—it's about making products feel eff
  * Top-performing freelancer recognition in UI/UX & Digital Product Design.
 
 ---
-
 <!-- Contribution Activity Graph -->
 <h3 align="center">🐍 Contribution Activity Graph</h3>
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/rabianaveed012-prog/rabianaveed012-prog/main/github-user-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/rabianaveed012/rabianaveed012/output/github-user-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
