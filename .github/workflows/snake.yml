@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   build:
@@ -13,10 +16,9 @@ jobs:
 
       - uses: Platane/snk@v3
         with:
-          github_user_name: rabianaveed012
+          github_user_name: rabianaveed012-prog
           outputs: |
-            dist/github-user-contribution-grid-snake.svg?color_snake=#F43F5E&color_dots=#EBEDF0,#FFE4E6,#FDA4AF,#F43F5E,#BE123C
-            dist/github-user-contribution-grid-snake-dark.svg?color_snake=#EC4899&color_dots=#161B22,#831843,#BE185D,#DB2777,#F472B6
+            dist/github-user-contribution-grid-snake-dark.svg?color_snake=#C084FC&color_dots=#0D1117,#3B0764,#6B21A8,#9333EA,#C084FC
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
